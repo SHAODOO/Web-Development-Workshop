@@ -1,0 +1,11 @@
+.C, .B, .A{
+    color: red;
+}
+
+#ID{
+    color: royalblue;
+}
+
+input{
+    width:100px
+}
